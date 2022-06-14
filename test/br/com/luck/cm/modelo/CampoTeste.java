@@ -33,6 +33,7 @@ public class CampoTeste {
 		assertTrue(resultado);
 	}
 	
+	
 	//Testando vizinho que fica na diagonal
 	@Test
 	void testeVizinhoRealDistancia2() {
